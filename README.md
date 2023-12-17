@@ -1,127 +1,101 @@
-日本语：愛してる (aishiteru)
-德语：Ich liebe Dich
-英语：I love you
-阿尔巴尼亚语：Unë të dua
-阿拉伯语： (ahabak)
-阿塞拜疆语：Mən səni sevirəm
-孟加拉语：আমি তোমায় ভালবাসি (ami tomay bhalobashi)
-巴斯克语：Maite zaitut
-白俄罗斯语：Я цябе кахаю (Ja ciabie kachaju)
-保加利亚语：Обичам те (Obicham te)
-加泰罗尼亚语：T'estimo
-克罗地亚语：Volim te
-捷克语：Miluji tě
-丹麦语：Jeg elsker dig
-荷兰语：Ik hou van je
-爱沙尼亚语：Ma armastan sind
-法罗语：Eg elski teg
-芬兰语：Minä rakastan sinua
-法语：Je t'aime
-弗里西语：Ik hâld fan dy
-加利西亚语：Querote
-格鲁吉亚语：მე შენატან მიყვარხარ (me shenat'an miq'varkh'ar)
-希腊语：Σε αγαπώ (Se agapó)
-格陵兰语：Asavakkit
-古吉拉特语：હું તને પ્રેમ કરું છું (hu tane prem karu chhu)
-海地克里奥尔语：Mwen renmen w
-希伯来语：אני אוהב אותך (ani ohev otach)
-哈萨克语：Мен сені жақсы көремін (Men seni jaqsı köremın)
-海地克里奥尔语：Mwen renmen w
-匈牙利语：Szeretlek
-冰岛语：Ég elska þig
-伊博语：A hụrụ m gi n'anya
-印地语：मैं तुमसे प्यार करता हूँ (main
-印度尼西亚语：Aku cinta kamu
-爱尔兰语：Tá grá agam ort
-意大利语：Ti amo
-爪哇语：Aku tresna sampeyan
-卡纳达语：ನನ್ನ ಪ್ರೀತಿಸುತ್ತೇನೆ (nanna preetisuttene)
-韩语：사랑해 (saranghae)
-库尔德语：Ez te hezdiketim
-柬埔寨语：ខ្ញុំ​ស្រឡាញ់​អ្នក (knhom sralanh aeng)
-拉丁语：Te amo
-拉脱维亚语：Es tevi mīlu
-立陶宛语：Aš tave myliu
-卢森堡语：Ech hunn dech gär
-马其顿语：Те сакам (te sakam)
-马达加斯加语：Tiako ianao
-马来语：Saya cinta padamu
-马耳他语：Inħobbok
-毛利语：Kei te aroha au ki a koe
-马拉雅拉姆语：ഞാൻ നിന്നെ സ്നേഹിക്കുന്നു (naan ninne snehikkunnu)
-马尔文语：Mena mo te aroha kia koe
-蒙古语：Би чамд хайртай (Bi chamd khairtai)
-缅甸语：ချစ်တယ်ဆိုတဲ့သူကိုချစ်တယ် (chit tal hte toe chit tal)
-尼泊尔语：म तपाईंलाई माया गर्छु (ma tapailai maya garchhu)
-挪威语：Jeg elsker deg
-乌尔都语： (main tum se pyar karta hoon)
-波斯语： (doustet daram)
-波兰语：Kocham cię
-葡萄牙语：Amo-te
-旁遮普语： (meinu tussi pyar karda an)
-俄语：Я тебя люблю (ya tebya lyublyu)
-萨摩亚语：O a’u o lo’o fiafia i’a oe
-苏格兰盖尔语：Tha gaol agam ort
-塞尔维亚语：Волим те (volim te)
-塞索托语：Kea u rata
-僧加罗语：මම ඔයාට ආදරෙයි (mama oyata adareyi)
-斯洛伐克语：Milujem ťa
-斯洛文尼亚语：Ljubim te
-索马里语：Aniga ku jeclahay
-西班牙语：Te quiero / Te amo
-苏丹语：Ana bahebak
-斯瓦希里语：Nakupenda
-瑞典语：Jag älskar dig
-塔吉克语：Ман туро дӯст медорам (man toro dust medoram)
-泰米尔语：நான் உன்னை நேசிக்கிறேன் (naan unnaai neesikkiren)
-泰卢固语：నేను నిన్ను ప్రేమిస్తున్నాను (nenu ninnu preminchadamu)
-泰语：ผมรักคุณ (phom rak khun)
-土耳其语：Seni seviyorum 82.土库曼语: Men seni söýemok
-乌克兰语：Я тебе кохаю (ya tebe kohayu)
-乌兹别克语：Men seni sevaman
-越南语：Em yêu anh (đối với nam giới nói) / Anh yêu em (đối với nữ giới nói)
-威尔士语：Rwy’n dy garu di
-象形文字：(emoji) ❤️ ❤️
-意第绪语：איך האב דיר ליב (ikh hob dir lib)
-约鲁巴语：Mo nifẹ rẹ
-约尔巴语：Mun rakastan sua
-扎扎其语：Thik gi re
-南非荷兰语：Ek het jou lief
-阿萨姆语：মই তোমাক ভালপাওহ (moi tomak bhal pau)
-科萨语：Ndiyakuthanda
-威克语：Ke aloha iā ʻoe
-依地语：Ua here vau ia oe
-赞比亚语：Nikukonda
-宿务语：Gihigugma ko ikaw
-布隆迪语：Nkunda
-刚果语：Nalingi yo
-阿姆哈拉语：እወድሃለሁ (ewedihalehu)
-奥罗莫语：Kutaale nnyo
-阿尔巴尼亚语：Te dua
-阿尔及利亚阿拉伯语： (nhebouk)
-阿姆斯特丹语：Ik hou van jou
-阿邦语：Mi kosu te
-奥克兰岛语：Auare aroha ana koe
-阿拉伯语： (ʾuḥibbuka)
-阿鲁巴语：Mi ta stima bo
-阿瓦语：Ndi nkhunzi nawe
-亚美尼亚语：ես քեզ սիրում եմ (yes kez sirum em)
-阿塞拜疆语：Mən səni sevirəm
-巴伦支语：Sarang hae
-孟加拉语：আমি তোমাকে ভালবাসি (ami tomake bhalobashi)
-俾路支语： (main tun piyar karan da ay)
-巴斯克语：Maite zaitut
-白俄罗斯语：Я цябе кахаю (ya tsiabye kakhayu)
-伯利兹克里奥尔语：Nohoch’och’oc u k’áax
-柬埔寨语：ខ្ញុំស្រលាញ់អ្នក (knhom sralanh neak)
-喀麦隆皮钦语：Mè nyènè wo
-卡纳达语：ನನ್ನ ಪ್ರೀತಿ ನಿನ್ನ ಮೇಲೆ ಇದೆ (nanna preeti ninna mele ide)
-罗马尼亚语：Te iubesc
-普通话：我爱你 (wǒ ài nǐ)
-藏语：ངེས་པར་གཏན་འཁོར་ཞི
-印地语: मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon)
-还有我自己的语言ou~ 我爱你, 语嫣 ♡
---------------
-Time ~ Sun Dec 17 ~ 3:23 PM 
-Signature ~ Andei_Buite / あんでい〜ぶいて 
---------------
+YOU WILL RECEIVED LOVE CONFESSION FROM ME
+Japanese(日本) - 愛してる
+English(英语) - I LOVE YOU
+Esperanto(世界语) - Mi amas vin
+Russian(俄语) -  Я люблю тебя
+CantoneseChinese(广东话) - Ngo oiy ney a
+German(德语) - Ich liebe dich
+French(法语) - Je taime
+Malay(马来语) - Saya cintakan mu / Aku cinta padamu
+Afrikaans(南非洲的荷兰语) - Ek het jou lief
+Albanian(阿尔巴尼亚) - Te dua
+Arabic(阿拉伯) - Ana behibek
+Armenian(亚美尼亚) - Yes kez sirumen
+Bambara(班拉族语) - Mbi fe
+Bangla(孟加拉语) - Aamee tuma ke bhalo aashi
+Belorussian(白俄罗斯) - Ya tabe kahayu
+Bisaya(诺尔斯文) - Nahigugma ako kanimo
+Bulgarian(保加利亚) - Obicham te
+Cambodian(柬埔寨) - Soro lahn nhee ah
+Catalan(加泰罗尼亚语) - Testimo
+Cheyenne(夏安语) - Ne mohotatse
+Chichewa(齐佩瓦语) - Ndimakukonda
+Corsican(科西嘉语) - Ti tengu caru (to male)
+Creol(克利奥尔语) - Mi aime jou
+Croatian(克罗地亚语) - Volim te
+Czech(捷克) - Miluji te
+Danish(丹麦) - Jeg Elsker Dig
+Dutch(荷兰) - Ik hou van jou
+Estonian(爱沙尼亚) - Ma armastan sind
+Ethiopian(埃塞俄比亚) - Afgreki
+Faroese(法罗语) - Eg elski teg
+Farsi(波斯语) - Doset daram
+Filipino(菲律宾) - Mahal kita
+Finnish(芬兰) - Mina rakastan sinua
+Gaelic(盖尔语) - Ta gra agam ort
+Georgian(乔治亚州) - Mikvarhar
+Greek(希腊) - Sagapo
+Gujarati(古吉拉特语) - Hoo thunay prem karoo choo
+Hiligaynon(希利盖农语) - Palangga ko ikaw
+Hawaiian(夏威夷语) - Aloha wau ia oi
+Hebrew(希伯来语) - Ani ohev otah
+Hiligaynon(希利盖农语) - Guina higugma ko ikaw
+Hindi(北印度语) - Hum Tumhe Pyar Karte hae
+Hmong(苗语) - Kuv hlub koj
+Hopi(霍皮语) - Nu umi unangwata
+Hungarian(匈牙利) - Szeretlek
+Icelandic(冰岛) - Eg elska tig
+Ilonggo(伊隆戈语) - Palangga ko ikaw
+Indonesian(印度尼西亚) - Saya cinta padamu
+Inuit(纽因特语) - Negligevapse
+Irish(爱尔兰) - Taim i ngra leat
+Italian(意大利) - Ti amo
+Kannada(埃那得语) - Naanu ninna preetisuttene
+Kapampangan(说卡潘潘甘语) - Kaluguran daka
+Kiswahili(斯瓦西里语) - Nakupenda
+Konkani(贡根文) - Tu magel moga cho
+Latin(拉丁语) - Te amo
+Latvian(拉托维亚语) - Es tevi miilu
+Lebanese(黎巴嫩) - Bahibak
+Lithuanian(立陶宛) - Tave myliu
+Malayalam(马拉雅拉姆语) - Njan Ninne Premikunnu
+Marathi(马拉地语) - Me tula prem karto
+Mohawk(莫霍克语) - Kanbhik
+Moroccan(摩洛哥) - Ana moajaba bik
+Nahuatl(纳瓦特尔语) - Ni mits neki
+Navaho(纳瓦霍语) - Ayor anoshni
+Norwegian(挪威) - Jeg Elsker Deg
+Pandacan(潘达肯语) - Syota na kita!!
+Pangasinan(邦阿西楠语) - Inaru Taka
+Papiamento(帕皮阿门托语) - Mi ta stimabo
+Persian(波斯语) - Doo-set daaram
+PigLatin(大拉丁语) - Iay ovlay ouyay
+Polish(波兰) - Kocham Ciebie
+Portuguese(葡萄牙) - Eu te amo
+Romanian(罗马尼亚) - Te ubesk
+ScotGaelic(苏格兰盖尔语) - Tha gradh agam ort
+Serbian(塞尔维亚语) - Volim te
+Setswana(塞茨瓦纳语) - Ke a go rata
+SignLanguage(手语) - ummmm you know....
+Sindhi(信德语) - Maa tokhe pyar kendo ahyan
+Sioux(苏族语) - Techihhila
+Slovak(斯洛伐克语) - Lu`bim ta
+Slovenian(斯洛文尼亚语) - Ljubim te
+Spanish(西班牙语) - Te quiero / Te amo
+Swahili(斯瓦西里语) - Ninapenda wewe
+Swedish(瑞典) - Jag alskar dig
+SwissGerman(瑞典德语) - Ich lieb Di
+Tagalog(塔加拉族语) - Mahal kita
+Taiwanese(台湾话) - Wa ga ei li
+Tahitian(大溪地语) - Ua Here Vau Ia Oe
+Tamil(泰米尔语) - Nan unnai kathalikaraen
+Telugu(泰卢固语) - Nenu ninnu premistunnanu
+Thai(泰语) - Phom rak khun
+Turkish(土尔其) - Seni Seviyorum
+Ukrainian(乌克兰) - Ya tebe kahayu
+Urdu(乌尔都语) - mai aap say pyaar karta hoo
+Vietnamese(越南) - Anh ye^u em
+Welsh(威尔士语) - Rwyn dy garu
+Yiddish(意第绪语) - Ikh hob dikh
+Yoruba(优鲁巴人语) - Mo ni fe
+Chinese(汉语) - 这是单独给语嫣的, 我爱你, 语嫣
